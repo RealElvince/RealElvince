@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elvince Oduor Otieno</h1>
+<h1 align="center">Hi 👋, I'm Oduor Otieno</h1>
 <h3 align="center">A tech enthusiast(data science,web ,android and iOS development) from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realelvince&label=Profile%20views&color=0e75b6&style=flat" alt="realelvince" /> </p>
