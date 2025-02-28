@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/elvince_oduor" target="blank"><img src="https://img.shields.io/twitter/follow/elvince_oduor?logo=twitter&style=for-the-badge" alt="elvince_oduor" /></a> </p>
 
-- 🔭 I’m currently working on **react app.**
+- 🔭 I’m currently working on **react app,streamlit app**
 
-- 🌱 I’m currently learning **TypeScript,reactjs.**
+- 🌱 I’m currently learning **TypeScript,reactjs,python**
 
 - 👯 I’m looking to collaborate on **data science and web development projects.**
 
