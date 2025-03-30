@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvince Oduor Otieno</h1>
-<h3 align="center">A tech enthusiast(data science,web,GUI,iOS and android development) from Kenya.</h3>
+<h3 align="center">A tech enthusiast(data engineering,data science,web,GUI,iOS and android development) from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realelvince&label=Profile%20views&color=0e75b6&style=flat" alt="realelvince" /> </p>
 
