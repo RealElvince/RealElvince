@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **dbt,apache airflow,astro,docker.**
 
-- 👯 I’m looking to collaborate on **data engineering.**
+- 👯 I’m looking to collaborate on **data engineering projects.**
 
 - 💬 Ask me about **Data Engineering.**
 
