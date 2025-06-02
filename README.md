@@ -1,6 +1,6 @@
 # Hi, I'm Oduor Otieno 👋
 
-I am a Data Professional with over 3 years of experience in **data engineering**, **data analysis**, and **data science**. My expertise covers a wide range of data processes, including building and optimizing **end-to-end data pipelines**, conducting advanced **data analysis**, and developing **predictive models**. I leverage tools and platforms like:
+I am a Data Professional with over 3 years of experience in **data engineering** and **data analysis**. My expertise covers a wide range of data processes, including building and optimizing **end-to-end data pipelines**, conducting advanced **data analysis**. I leverage tools and platforms like:
 
 - **dbt**, **Databricks**,**Databricks Asset Bundles**, **Snowflake**, **Apache Kafka** 
 - **AWS Services** (S3, Redshift, Athena, etc.)
