@@ -1,15 +1,31 @@
-<h1 align="center">Hi 👋, I'm Elvince Oduor Otieno</h1>
-<h3 align="center">A tech enthusiast(data engineer) from Kenya.</h3>
+# Hi, I'm Oduor Otieno 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realelvince&label=Profile%20views&color=0e75b6&style=flat" alt="realelvince" /> </p>
+I am a Data Professional with over 3 years of experience in **data engineering**, **data analysis**, and **data science**. My expertise covers a wide range of data processes, including building and optimizing **end-to-end data pipelines**, conducting advanced **data analysis**, and developing **predictive models**. I leverage tools and platforms like:
 
-<p align="left"> <a href="https://twitter.com/elvince_oduor" target="blank"><img src="https://img.shields.io/twitter/follow/elvince_oduor?logo=twitter&style=for-the-badge" alt="elvince_oduor" /></a> </p>
+- **dbt**, **Databricks**,**Databricks Asset Bundles**, **Snowflake**, **Apache Kafka** 
+- **AWS Services** (S3, Redshift, Athena, etc.)
+- **Google Cloud Platforms** (GCS, Google BigQuery etc.)
+- **Python**, **SQL**, **R**  
+- **Power BI**, **Tableau**, **Looker**, **QuickSight**
+- **Airflow**, **Git**, **GitHub Actions** for version control and CI/CD automation
 
-- 🔭 I’m currently working on **ELT/ETL data pipelines.**
+With six years of prior experience in **real estate**, I bring cross-domain insights into data problem-solving. I hold a Bachelor's degree in **Real Estate** and multiple certifications in **data analytics/engineering**.
 
-- 🌱 I’m currently learning **dbt,apache airflow,astro,docker.**
+## 💻 Skills
 
-- 👯 I’m looking to collaborate on **data engineering projects.**
+- **Data Pipelines**: dbt, Snowflake, AWS (S3, Redshift), GCS, Google BigQuery, Apache Kafka 
+- **Programming**: Python, SQL, 
+- **Data Visualization**:  Looker, QuickSight
+- **Version Control**: Git,
+- **Cloud Platforms**: AWS, GCP
+- **Orchastration**: Airflow,
+
+## 🌟 Expertise
+
+- **End-to-End Data Management**: Handling data processes from **extraction** and **transformation** to **loading** (ETL/ELT) and **modeling**
+- **Data Engineering**: Optimizing **data pipelines** and ensuring efficient data flow
+- **Collaboration**: Working with stakeholders to define and track **KPIs**, driving data-driven strategies
+
 
 - 💬 Ask me about **Data Engineering.**
 
