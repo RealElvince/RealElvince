@@ -5,7 +5,7 @@ I am a Data Professional with over 3 years of experience in **data engineering**
 - **dbt**, **Snowflake**, **Apache Kafka** 
 - **AWS Services** (S3, Redshift, Athena, etc.)
 - **Google Cloud Platforms** (GCS, Google BigQuery etc.)
-- **Python**, **SQL**
+- **Python**, **SQL**, **Bash**
 - **Looker**, **QuickSight**
 - **Airflow**, **Git**, **GitHub Actions** for version control and CI/CD automation
 
@@ -14,7 +14,7 @@ With six years of prior experience in **real estate**, I bring cross-domain insi
 ## 💻 Skills
 
 - **Data Pipelines**: dbt, Snowflake, AWS (S3, Redshift), GCS, Google BigQuery, Apache Kafka 
-- **Programming**: Python, SQL, 
+- **Programming**: Python, SQL, Bash
 - **Data Visualization**:  Looker, QuickSight
 - **Version Control**: Git,
 - **Cloud Platforms**: AWS, GCP
