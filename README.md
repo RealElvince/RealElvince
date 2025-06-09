@@ -9,7 +9,6 @@ I am a Data Professional with over 3 years of experience in **data engineering**
 - **Looker**, **QuickSight**
 - **Airflow**, **Git**, **GitHub Actions** for version control and CI/CD automation
 
-With six years of prior experience in **real estate**, I bring cross-domain insights into data problem-solving. I hold a Bachelor's degree in **Real Estate** and multiple certifications in **data analytics/engineering**.
 
 ## 💻 Skills
 
