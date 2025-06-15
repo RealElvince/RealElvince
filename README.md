@@ -5,7 +5,7 @@ I am a Data Professional with over 3 years of experience in **data engineering**
 - **dbt**, **Snowflake**, **Apache Kafka** 
 - **AWS Services** (S3, Redshift, Athena, etc.)
 - **Google Cloud Platforms** (GCS, Google BigQuery etc.)
-- **Python**, **SQL**, **Bash**
+- **Python**, **SQL**, **Shell**
 - **Looker**, **QuickSight**
 - **Airflow**, **Git**, **GitHub Actions** for version control and CI/CD automation
 
