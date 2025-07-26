@@ -3,8 +3,8 @@
 I am a Data Professional with over 3 years of experience in **data engineering** and **data analysis**. My expertise covers a wide range of data processes, including building and optimizing **end-to-end data pipelines**, conducting advanced **data analysis**. I leverage tools and platforms like:
 
 - **dbt**, **Snowflake**, **Apache Kafka** ,**Apache Spark** 
-- **AWS Services** (S3, Redshift, Athena, etc.)
-- **Google Cloud Platforms** (GCS, Google BigQuery etc.)
+- **AWS Services** (S3, Redshift, Athena)
+- **Google Cloud Platforms** (GCS, Google BigQuery etc)
 - **Python**, **SQL**, **Shell**
 - **Looker**, **QuickSight**
 - **Airflow**, **Git**, **GitHub Actions** for version control and CI/CD automation
