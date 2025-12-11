@@ -13,7 +13,7 @@ I am a Data Professional with over 3 years of experience in **data engineering**
 ## 💻 Skills
 
 - **Data Pipelines**: dbt, Snowflake, AWS (S3, Redshift), GCS, Google BigQuery, Apache Kafka 
-- **Programming**: Python, SQL, Bash
+- **Programming**: Python,R, SQL, Bash
 - **Data Visualization**:  Looker, QuickSight
 - **Version Control**: Git,
 - **Cloud Platforms**: AWS, GCP
