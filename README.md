@@ -17,7 +17,7 @@ I am a Data Professional with over 3 years of experience in **data engineering**
 - **Data Visualization**:  Looker, QuickSight
 - **Version Control**: Git,
 - **Cloud Platforms**: AWS, GCP
-- **Orchastration**: Airflow,
+- **Orchestration**: Airflow,
 
 ## 🌟 Expertise
 
