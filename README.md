@@ -21,9 +21,9 @@ I am a Data Professional with over 3 years of experience in data engineering and
 
 ## 🌟 Expertise
 
-- **End-to-End Data Management**: Handling data processes from **extraction** and **transformation** to **loading** (ETL/ELT) and **modeling**
-- **Data Engineering**: Optimizing **data pipelines** and ensuring efficient data flow
-- **Collaboration**: Working with stakeholders to define and track **KPIs**, driving data-driven strategies
+- **End-to-End Data Management**: Handling data processes from extraction and transformation** to loading (ETL/ELT) and modeling.
+- **Data Engineering**: Optimizing data pipelines and ensuring efficient data flow.
+- **Collaboration**: Working with stakeholders to define and track KPIs, driving data-driven strategies.
 
 
 - 💬 Ask me about **Data Engineering.**
